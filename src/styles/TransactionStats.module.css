@@ -1,0 +1,12 @@
+/* src/styles/TransactionStats.module.css */
+.statsContainer {
+    margin-bottom: 20px;
+  }
+  
+  .statItem {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    background: #e9ecef;
+  }
+  
